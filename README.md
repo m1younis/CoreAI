@@ -9,6 +9,6 @@ The project consists of:
 
 ## Data
 
-The base dataset ([`emissions.csv`](https://github.com/m1younis/CoreAI/blob/master/data/emissions.csv)) can be found on [Kaggle](https://www.kaggle.com/kkhandekar/co2-emissions-1960-2018), and is originally retrieved from [The World Bank](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC).
+The base dataset ([`healthcare.csv`](https://github.com/m1younis/CoreAI/blob/master/data/healthcare.csv)) was retrieved from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
 
-It collates CO2 emission figures (measured in tonnes per capita) for 266 countries from the year 1960 through to 2018, reflecting the effects of fossil fuel consumption and industrial processes over a relatively recent time period.
+It contains over 1000 records of anonymous individuals from the US on health insurance plans, recording additional information such as their age, gender and BMI value.
