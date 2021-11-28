@@ -5,6 +5,7 @@ A group project applying artificial intelligence fundamentals to a chosen machin
 
 The project consists of:
 * `data/` – a directory of the datasets used, see [Data](#data) for more.
+* `models/` – a directory of visualized results.
 * `src/` – a directory containing a single Jupyter Notebook describing the approaches taken and results observed.
 
 ## Data
