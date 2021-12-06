@@ -13,3 +13,9 @@ The project consists of:
 The base dataset ([`healthcare.csv`](https://github.com/m1younis/CoreAI/blob/master/data/healthcare.csv)) was retrieved from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
 
 It contains over 1000 records of anonymous individuals from the US on health insurance plans, recording additional information such as their age, gender and BMI value.
+
+## Contributors
+
+* Sever Miranbeg ([**@SeverUthman**](https://github.com/SeverUthman))
+* Akif Karakus ([**@ak-tr**](https://github.com/ak-tr))
+* Moeen Younis ([**@m1younis**](https://github.com/m1younis))
