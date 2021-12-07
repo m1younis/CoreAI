@@ -16,6 +16,6 @@ It contains over 1000 records of anonymous individuals from the US on health ins
 
 ## Contributors
 
-* Sever Miranbeg ([**@SeverUthman**](https://github.com/SeverUthman))
-* Akif Karakus ([**@ak-tr**](https://github.com/ak-tr))
-* Moeen Younis ([**@m1younis**](https://github.com/m1younis))
+* *Sever Miranbeg* ([**@SeverUthman**](https://github.com/SeverUthman))
+* *Akif Karakus* ([**@ak-tr**](https://github.com/ak-tr))
+* *Moeen Younis* ([**@m1younis**](https://github.com/m1younis))
